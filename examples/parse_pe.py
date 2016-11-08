@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 from pynpac import *
-f = open("/Users/vladg/Downloads/2016-09-14-pseudoDarkleech-Rig-EK-malware-and-artifacts/2016-09-14-pseudoDarkleech-Rig-EK-payload-CrypMIC-from-first-example.exe")
+f = open("samples/2016-09-14-pseudoDarkleech-Rig-EK-payload-CrypMIC-from-first-example.exe")
 
 p = Parser(f)
 
